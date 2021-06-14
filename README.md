@@ -8,8 +8,6 @@
 
 I am a full-stack developer who loves to code, produce music and read!
 
-<img align="right" alt="GIF" src="https://github.com/davisuga/davisuga/blob/master/coding.gif?raw=true" width="408" height="318" />
-
 📈 **My GitHub Stats:**
 
 <p>
